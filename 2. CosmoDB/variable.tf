@@ -21,6 +21,6 @@ variable "container_name" {
 }
 
 variable "partition_key_path_name" {
-  default = "path_name"
+  default = "/pathName"
 }
 
